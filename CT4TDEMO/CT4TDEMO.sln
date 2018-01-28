@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CT4TDEMO.Plugins", "CT4TDEMO.Plugins.csproj", "{330EC95F-CC1D-5A25-89CE-F3E6E36B5340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CT4TDEMO.Editor", "CT4TDEMO.Editor.csproj", "{F6D2CF4E-9E32-A8A0-E23E-ABF9EF26E092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330EC95F-CC1D-5A25-89CE-F3E6E36B5340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330EC95F-CC1D-5A25-89CE-F3E6E36B5340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330EC95F-CC1D-5A25-89CE-F3E6E36B5340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330EC95F-CC1D-5A25-89CE-F3E6E36B5340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D2CF4E-9E32-A8A0-E23E-ABF9EF26E092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D2CF4E-9E32-A8A0-E23E-ABF9EF26E092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D2CF4E-9E32-A8A0-E23E-ABF9EF26E092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D2CF4E-9E32-A8A0-E23E-ABF9EF26E092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

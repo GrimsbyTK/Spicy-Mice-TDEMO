@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 44e92a63e0c5ddf449e1cb870c32e0d8
+timeCreated: 1512397847
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: belt1
+    100002: belt2
+    100004: beltBuckle
+    100006: Bip001
+    100008: Bip001 Footsteps
+    100010: Bip001 Head
+    100012: Bip001 HeadNub
+    100014: Bip001 L Calf
+    100016: Bip001 L Clavicle
+    100018: Bip001 L Finger0
+    100020: Bip001 L Finger0Nub
+    100022: Bip001 L Finger1
+    100024: Bip001 L Finger1Nub
+    100026: Bip001 L Finger2
+    100028: Bip001 L Finger2Nub
+    100030: Bip001 L Foot
+    100032: Bip001 L Forearm
+    100034: Bip001 L Hand
+    100036: Bip001 L Thigh
+    100038: Bip001 L Toe0
+    100040: Bip001 L Toe01
+    100042: Bip001 L Toe02
+    100044: Bip001 L Toe0Nub
+    100046: Bip001 L Toe1
+    100048: Bip001 L Toe11
+    100050: Bip001 L Toe12
+    100052: Bip001 L Toe1Nub
+    100054: Bip001 L Toe2
+    100056: Bip001 L Toe21
+    100058: Bip001 L Toe22
+    100060: Bip001 L Toe2Nub
+    100062: Bip001 L UpperArm
+    100064: Bip001 Neck
+    100066: Bip001 Pelvis
+    100068: Bip001 R Calf
+    100070: Bip001 R Clavicle
+    100072: Bip001 R Finger0
+    100074: Bip001 R Finger0Nub
+    100076: Bip001 R Finger1
+    100078: Bip001 R Finger1Nub
+    100080: Bip001 R Finger2
+    100082: Bip001 R Finger2Nub
+    100084: Bip001 R Foot
+    100086: Bip001 R Forearm
+    100088: Bip001 R Hand
+    100090: Bip001 R Thigh
+    100092: Bip001 R Toe0
+    100094: Bip001 R Toe01
+    100096: Bip001 R Toe02
+    100098: Bip001 R Toe0Nub
+    100100: Bip001 R Toe1
+    100102: Bip001 R Toe11
+    100104: Bip001 R Toe12
+    100106: Bip001 R Toe1Nub
+    100108: Bip001 R Toe2
+    100110: Bip001 R Toe21
+    100112: Bip001 R Toe22
+    100114: Bip001 R Toe2Nub
+    100116: Bip001 R UpperArm
+    100118: Bip001 Spine
+    100120: Bip001 Spine1
+    100122: Bip001 Spine2
+    100124: bodyMain
+    100126: Box002
+    100128: Camera001
+    100130: Camera001.Target
+    100132: eyeLeft
+    100134: eyeRight
+    100136: footLeft
+    100138: footRight
+    100140: //RootNode
+    100142: handLeft
+    100144: handRight
+    100146: headMain
+    100148: headMouth
+    100150: lowerArmLeft
+    100152: lowerArmRight
+    100154: lowerLegLeft
+    100156: lowerLegRight
+    100158: pouch
+    100160: scarf
+    100162: Sphere001
+    100164: Sphere002
+    100166: Sphere003
+    100168: Sphere004
+    100170: Sphere005
+    100172: Sphere006
+    100174: Sphere007
+    100176: Sphere008
+    100178: Sphere009
+    100180: Sphere010
+    100182: Sphere011
+    100184: Sphere012
+    100186: Sphere013
+    100188: Sphere014
+    100190: Sphere015
+    100192: Sphere016
+    100194: Sphere017
+    100196: Sphere018
+    100198: Sphere019
+    100200: Sphere020
+    100202: Sphere021
+    100204: Sphere022
+    100206: Sphere023
+    100208: upperArmLeft
+    100210: upperArmRight
+    100212: upperLegLeft
+    100214: upperLegRight
+    100216: we
+    100218: we.Target
+    400000: belt1
+    400002: belt2
+    400004: beltBuckle
+    400006: Bip001
+    400008: Bip001 Footsteps
+    400010: Bip001 Head
+    400012: Bip001 HeadNub
+    400014: Bip001 L Calf
+    400016: Bip001 L Clavicle
+    400018: Bip001 L Finger0
+    400020: Bip001 L Finger0Nub
+    400022: Bip001 L Finger1
+    400024: Bip001 L Finger1Nub
+    400026: Bip001 L Finger2
+    400028: Bip001 L Finger2Nub
+    400030: Bip001 L Foot
+    400032: Bip001 L Forearm
+    400034: Bip001 L Hand
+    400036: Bip001 L Thigh
+    400038: Bip001 L Toe0
+    400040: Bip001 L Toe01
+    400042: Bip001 L Toe02
+    400044: Bip001 L Toe0Nub
+    400046: Bip001 L Toe1
+    400048: Bip001 L Toe11
+    400050: Bip001 L Toe12
+    400052: Bip001 L Toe1Nub
+    400054: Bip001 L Toe2
+    400056: Bip001 L Toe21
+    400058: Bip001 L Toe22
+    400060: Bip001 L Toe2Nub
+    400062: Bip001 L UpperArm
+    400064: Bip001 Neck
+    400066: Bip001 Pelvis
+    400068: Bip001 R Calf
+    400070: Bip001 R Clavicle
+    400072: Bip001 R Finger0
+    400074: Bip001 R Finger0Nub
+    400076: Bip001 R Finger1
+    400078: Bip001 R Finger1Nub
+    400080: Bip001 R Finger2
+    400082: Bip001 R Finger2Nub
+    400084: Bip001 R Foot
+    400086: Bip001 R Forearm
+    400088: Bip001 R Hand
+    400090: Bip001 R Thigh
+    400092: Bip001 R Toe0
+    400094: Bip001 R Toe01
+    400096: Bip001 R Toe02
+    400098: Bip001 R Toe0Nub
+    400100: Bip001 R Toe1
+    400102: Bip001 R Toe11
+    400104: Bip001 R Toe12
+    400106: Bip001 R Toe1Nub
+    400108: Bip001 R Toe2
+    400110: Bip001 R Toe21
+    400112: Bip001 R Toe22
+    400114: Bip001 R Toe2Nub
+    400116: Bip001 R UpperArm
+    400118: Bip001 Spine
+    400120: Bip001 Spine1
+    400122: Bip001 Spine2
+    400124: bodyMain
+    400126: Box002
+    400128: Camera001
+    400130: Camera001.Target
+    400132: eyeLeft
+    400134: eyeRight
+    400136: footLeft
+    400138: footRight
+    400140: //RootNode
+    400142: handLeft
+    400144: handRight
+    400146: headMain
+    400148: headMouth
+    400150: lowerArmLeft
+    400152: lowerArmRight
+    400154: lowerLegLeft
+    400156: lowerLegRight
+    400158: pouch
+    400160: scarf
+    400162: Sphere001
+    400164: Sphere002
+    400166: Sphere003
+    400168: Sphere004
+    400170: Sphere005
+    400172: Sphere006
+    400174: Sphere007
+    400176: Sphere008
+    400178: Sphere009
+    400180: Sphere010
+    400182: Sphere011
+    400184: Sphere012
+    400186: Sphere013
+    400188: Sphere014
+    400190: Sphere015
+    400192: Sphere016
+    400194: Sphere017
+    400196: Sphere018
+    400198: Sphere019
+    400200: Sphere020
+    400202: Sphere021
+    400204: Sphere022
+    400206: Sphere023
+    400208: upperArmLeft
+    400210: upperArmRight
+    400212: upperLegLeft
+    400214: upperLegRight
+    400216: we
+    400218: we.Target
+    4300000: bodyMain
+    4300002: scarf
+    4300004: belt1
+    4300006: belt2
+    4300008: pouch
+    4300010: Box002
+    4300012: Sphere001
+    4300014: beltBuckle
+    4300016: Sphere022
+    4300018: Sphere023
+    4300020: headMain
+    4300022: headMouth
+    4300024: eyeLeft
+    4300026: eyeRight
+    4300028: upperArmLeft
+    4300030: lowerArmRight
+    4300032: Sphere005
+    4300034: handRight
+    4300036: Sphere017
+    4300038: Sphere016
+    4300040: Sphere015
+    4300042: Sphere014
+    4300044: upperArmRight
+    4300046: lowerArmLeft
+    4300048: Sphere004
+    4300050: handLeft
+    4300052: Sphere018
+    4300054: Sphere019
+    4300056: Sphere020
+    4300058: Sphere021
+    4300060: upperLegLeft
+    4300062: lowerLegLeft
+    4300064: Sphere002
+    4300066: footLeft
+    4300068: Sphere009
+    4300070: Sphere010
+    4300072: Sphere011
+    4300074: Sphere013
+    4300076: upperLegRight
+    4300078: lowerLegRight
+    4300080: footRight
+    4300082: Sphere007
+    4300084: Sphere008
+    4300086: Sphere006
+    4300088: Sphere012
+    4300090: Sphere003
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: belt1
+    13700002: belt2
+    13700004: beltBuckle
+    13700006: bodyMain
+    13700008: Box002
+    13700010: eyeLeft
+    13700012: eyeRight
+    13700014: footLeft
+    13700016: footRight
+    13700018: handLeft
+    13700020: handRight
+    13700022: headMain
+    13700024: headMouth
+    13700026: lowerArmLeft
+    13700028: lowerArmRight
+    13700030: lowerLegLeft
+    13700032: lowerLegRight
+    13700034: pouch
+    13700036: scarf
+    13700038: Sphere001
+    13700040: Sphere002
+    13700042: Sphere003
+    13700044: Sphere004
+    13700046: Sphere005
+    13700048: Sphere006
+    13700050: Sphere007
+    13700052: Sphere008
+    13700054: Sphere009
+    13700056: Sphere010
+    13700058: Sphere011
+    13700060: Sphere012
+    13700062: Sphere013
+    13700064: Sphere014
+    13700066: Sphere015
+    13700068: Sphere016
+    13700070: Sphere017
+    13700072: Sphere018
+    13700074: Sphere019
+    13700076: Sphere020
+    13700078: Sphere021
+    13700080: Sphere022
+    13700082: Sphere023
+    13700084: upperArmLeft
+    13700086: upperArmRight
+    13700088: upperLegLeft
+    13700090: upperLegRight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
